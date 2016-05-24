@@ -1,4 +1,4 @@
-i# GPG key
+# GPG key
 
 Gibhub has introduced a cool new function that allows creators to 'sign' their commits. This will show up as a green 'verified' on github.
 
