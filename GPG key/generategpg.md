@@ -30,4 +30,4 @@ $ gpg --armor --export A8F99211
 ```
 12. Copy your GPG key, beginning with `-----BEGIN PGP PUBLIC KEY BLOCK-----` and ending with `-----END PGP PUBLIC KEY BLOCK-----`.
 
-13. Add the GPG key to your GitHub account. [See next section]()!
+13. Add the GPG key to your GitHub account. [See next section](https://github.com/pn101/instructio4/blob/master/GPG%20key/generategpg.md)!
