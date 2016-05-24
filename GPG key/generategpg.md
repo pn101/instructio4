@@ -1,11 +1,3 @@
-# GPG key
-
-Gibhub has introduced a cool new function that allows creators to 'sign' their commits. This will show up as a green 'verified' on github.
-
-Simply put, GPG, is an encrpytion software program.
-
-There are a few simple steps to follow in order to get this up and running.
-
 #Generate a new GPG
 
 1. [Download and install](https://www.gnupg.org/download/) the GPG command line tools for your operating system.
