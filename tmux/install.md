@@ -45,3 +45,13 @@ tmux ls
 ```
 ctrl-b + option + [arrow-key]
 ```
+
+## New Window(Tab)
+```
+ctrl-b + c
+```
+
+## Switch between Windows
+```
+ctrl-b + [window-number]
+```
