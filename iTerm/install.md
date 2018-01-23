@@ -15,8 +15,6 @@ zsh --version
 Make sure you have homebrew installed:
 ```
 brew update
-```
-```
 brew install zsh
 ```
 <br>
