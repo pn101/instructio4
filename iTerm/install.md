@@ -29,3 +29,14 @@ Check to see if zsh is correctly installed by restarting terminal
 > zsh is great for `tab-completion` when browsing through folders
 
 > try this out in your new shell
+<br>
+<br>
+
+## install oh-my-zsh
+`git` is a prerequisite for this
+
+Type the following into your command line:
+```
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+```
+<br>
