@@ -8,7 +8,9 @@ A prerequisite is that you need homebrew installed! Check out installation at [H
 
 Check to see if zsh is already installed:
 
-`zsh --version`
+```
+zsh --version
+```
 
 
 Make sure you have homebrew installed:
