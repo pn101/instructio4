@@ -33,7 +33,8 @@ Check to see if zsh is correctly installed by restarting terminal
 <br>
 
 ## install oh-my-zsh
-`git` is a prerequisite for this
+`git` is a prerequisite for this.
+
 You can find further details on the [oh-my-zsh github page](https://github.com/robbyrussell/oh-my-zsh).
 
 Type the following into your command line:
