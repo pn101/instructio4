@@ -23,3 +23,9 @@ Change the standard shell with zsh:
 ```
 chsh -s $(which zsh)
 ```
+<br>
+
+Check to see if zsh is correctly installed by restarting terminal
+> zsh is great for `tab-completion` when browsing through folders
+
+> try this out in your new shell
