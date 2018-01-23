@@ -5,12 +5,12 @@ I have experienced the iTerm IDE to be very versatile and efficient in developme
 A prerequisite is that you need homebrew installed! Check out installation at [Homebrew's website](https://brew.sh/).
 
 ### install zsh
-* Check to see if zsh is already installed:
+Check to see if zsh is already installed:
 ```zsh --version```
 
-* Make sure you have homebrew installed:
+Make sure you have homebrew installed:
 ```brew update```
 ```brew install zsh```
 
-* Change the standard shell with zsh:
+Change the standard shell with zsh:
 ```chsh -s $(which zsh)```
